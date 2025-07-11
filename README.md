@@ -5,6 +5,8 @@ Matricola: 894536**
 
 Sistema particellare fatto con OpenGL modificando il codice usato in classe. 
 
+Il codice è all'interno della cartella ***code***. 
+
 ## File modificati: 
 main.cpp, Makefile. 
 
@@ -19,11 +21,11 @@ main.cpp, Makefile.
 * particleShader.cpp
 
 ## Altre cartelle
-Vengono utilizzate solo le librerie contenuti nella cartella "base".
+Vengono utilizzate solo le librerie contenuti nella cartella ***base***.
 
-La cartella "texture" contiene le texture usate per le particelle. 
+La cartella ***texture*** contiene le texture usate per le particelle. 
 
-La cartella "gif" contiene i gif usati nella presentazione. 
+La cartella ***gif*** contiene i gif usati nella presentazione. 
 
 ## Comandi
 ### Comandi per compilare e avviare il programma: 
