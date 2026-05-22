@@ -1,4 +1,4 @@
-# _Progetto per il corso Informatica grafica di Università dei studi di Milano-Bicocca._
+# _Progetto per il corso Informatica grafica di Università degli Studi di Milano-Bicocca._
 
 **Studente: Shi Le Yang, 
 Matricola: 894536**
